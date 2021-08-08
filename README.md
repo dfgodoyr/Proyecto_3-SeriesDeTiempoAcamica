@@ -1,3 +1,5 @@
+# Series de tiempo - Peajes AUSA Argentina
+
 En este proyecto analizaremos una serie de tiempo con el flujo vehícular por unidades de Peaje de AUSA en Argentina, haciendo énfasis en el peaje de Illia con un método de pago en específico. 
 Además también se crearon modelos para realizar predicciones sobre ciertos periodos de tiempo, en específico sobre el último trimestre de 2019, el primer trimestre de 2020 y sobre todo 2020, de manera que usando el RMSE como métrica se pudiera evaluar el desempeño de los modelos.
 
